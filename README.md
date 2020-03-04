@@ -1,0 +1,2 @@
+# ParalelkenarCizim
+Paralelkenar Çizim Uygulaması
